@@ -5,5 +5,5 @@ This project is for Udacity's MLDevOps course. It takes all previous projects an
 pipeline components into one pipeline. In those previous projects, I recieved templates with some code in them, and I was tasked with filling out certain sections (this project was similar in that regard, 
 and sections marked "TODO" were sections I had to fill out, but those sections are for this project exclusively). 
 
-To run (if you feel like verifying the code works) type (or copy-paste) "mlflow run -v 1.0.0 https://github.com/JoshuaMcClintic/genre_classification.git" into your command terminal. You will need a 
+To run (if you feel like verifying the code works) type (or copy-paste) "mlflow run -v v1.0.0 https://github.com/JoshuaMcClintic/genre_classification.git" into your command terminal. You will need a 
 "Weights and Biases" account, and be logged in. To login to your wandb account in the terminal, type "wandb login" and follow the instructions.
